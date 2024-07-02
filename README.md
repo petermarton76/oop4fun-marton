@@ -1,2 +1,2 @@
 ### OOP4FUN
-Hello world!
+This is a great example of github power!
